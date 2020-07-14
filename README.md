@@ -1,0 +1,2 @@
+# JAVA-SCRPIT
+JS assingment
